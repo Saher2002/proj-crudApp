@@ -5,7 +5,7 @@
 Here's the link for live demo 👉 https://project-crud-app.netlify.app/
 
 # Start the server
-Start the server.js using cmd : node server.js
+Start the server.js using cmd : node server.js \
 message will be displayed : Server running at http://localhost:5000
 
 # Getting Started with Create React App
