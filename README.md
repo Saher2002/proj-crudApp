@@ -2,6 +2,12 @@
 ![image](https://github.com/user-attachments/assets/292d9ba2-21a9-4c44-9848-e11eda3b1322)
 [preview]
 
+Here's the link for live demo 👉 https://project-crud-app.netlify.app/
+
+# Start the server
+Start the server.js using cmd : node server.js
+message will be displayed : Server running at http://localhost:5000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
